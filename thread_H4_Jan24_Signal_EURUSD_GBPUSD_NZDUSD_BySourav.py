@@ -27,18 +27,19 @@ importlib.reload(sig)
 from Logging import setup_logger
 import math
 
-
+'''Function to Run Instrument Signal file with a Independent Thread'''
 def run_script(script_name,symbol , RISK , ds ,TP,SL,pip):
+    logger = setup_logger(f'{symbol}_BA_H4_AddedBySourav.log')
     try:
         script_module = importlib.import_module(script_name)
-        logger = logging.getLogger(f'{script_name}')
-        logger.info('entreing execution')
         script_module.Execution(script_name,symbol , RISK , ds ,TP,SL,pip,logger)
     except ImportError:
-        print(f"Failed to import {script_name}.")
+        logger.error(f"Failed to Import : {script_name}")
 
 
 
+
+'''Function to create EntrySignalCsv Files and Logger File'''
 def files(script_name,symbol , RISK , ds ,TP,SL,pip):
     df_cols = ['signals','orderid','volume','price_open','TP','SL']
         
@@ -50,9 +51,9 @@ def files(script_name,symbol , RISK , ds ,TP,SL,pip):
 
     
      
-
-def premain():
-    
+''''Main Function to run the Signal Script File Every 4 Hour from Monday to Friday'''
+def PreMain():
+    global MainLogger
     
     
 
@@ -64,6 +65,8 @@ def premain():
     server = 'Tickmill-Demo'
     path = r'C:\Program Files\MetaTrader 5\terminal64.exe'
     mt5.initialize( login = login , password = password, server = server)
+    MainLogger = setup_logger('thread_H4_Jan24_Signal_EURUSD_GBPUSD_NZDUSD_BySourav.log')
+    
     
     
     script_args = {
@@ -74,26 +77,23 @@ def premain():
 
     for script_name, args in script_args.items():
         symbol = args[0]
-        
         files(script_name,*args)
 
 
         
     if mt5.initialize(login = login , password = password, server = server):
-        print(f'Script Started for {symbol}')
+        MainLogger.debug(f'Script Started for thread_H4_Jan24_Signal_EURUSD_GBPUSD_NZDUSD_BySourav')
         while True:
             if (datetime.now().weekday()) != 5 and    \
                         (datetime.now().weekday()) != 6:
                 if mt5.initialize():
                 
-                    if ((datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)).weekday()) != 5 and                  ((datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)).weekday()) != 6:
+                    if ((datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)).weekday()) != 5 and ((datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)).weekday()) != 6:
             
                         try:
                             time1 = (datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))
                             time2 = mt5.symbol_info_tick(symbol).time
                             time3 = mt5.symbol_info_tick(symbol).time
-
-
                         except AttributeError:
                             time.sleep(20)
                             
@@ -123,8 +123,6 @@ def premain():
                                     time2 = mt5.symbol_info_tick(symbol).time
                                     time1 = (datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))
                                     if (time2 % (3600*4)  < 50) or (time2 % (3600 *4)  < 1200) or (time2 % (3600 *4)  < 600) :
-                                    #x = 1
-                                    # print('1hour')
                                         for script_name, args in script_args.items():
                                             # create_file(script_name)  # Create a file for each script
                                             symbol = args[0]
@@ -142,26 +140,21 @@ def premain():
 
                         
                 else:
-                    print("Not Connected")
+                    MainLogger.error("Mt5 Terminal Got Disconnected...")
                     
                     time1 = (datetime.now())
-                    print(time1)
                     with open(f'NotInitial.txt' , 'a') as file:
                                 file.write(f'\n symbol = {symbol},')
                                 
                                 file.write(f'Time = {time1}')
                     file.close
-                    logger.info(f'not connected {symbol},Time = {time1}')
                     cd = mt5.initialize(login = login , password = password, server = server)
-                    #print(cd)
-                    logger.info(f'connected {cd},Time = {datetime.now()}')
+                    MainLogger.debug(f'Is Connected : {cd}')
 
 
 
 if __name__ == "__main__":
-    print('step1')
-    premain()
-     
+    PreMain()
 
 
 
