@@ -64,8 +64,8 @@ def premain():
     server = 'Tickmill-Demo'
     path = r'C:\Program Files\MetaTrader 5\terminal64.exe'
     mt5.initialize( login = login , password = password, server = server)
-    #symbol,perrisk = val/100 , qty,TP,SL,TP1,SL1,pipval
-    # script_name,symbol , RISK , ds ,TP,SL,pip
+    
+    
     script_args = {
         "EURUSD_Short_H4" : ('EURUSD' , 0.002 , 0.001 , 2 , 3 , 10),
         "GBPUSD_trail_Short_H4" : ('GBPUSD' , 0.002 , 0.001 , 2 , 3 , 10) ,
@@ -76,9 +76,8 @@ def premain():
         symbol = args[0]
         
         files(script_name,*args)
-    
-    
-    # symbols = [['GBPUSD',0.01 , 0.0001,2,3,10],['US500',0.01 , 0.01,2,3,0.01]  ]
+
+
         
     if mt5.initialize(login = login , password = password, server = server):
         print(f'Script Started for {symbol}')
