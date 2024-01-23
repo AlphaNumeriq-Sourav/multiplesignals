@@ -18,18 +18,18 @@ import pandas_ta as ta
 
 
 import warnings
-import logging
 warnings.filterwarnings("ignore")
 import importlib
 import sig_lib as sig
 
 importlib.reload(sig)
 from Logging import setup_logger
+import logging
 import math
 
 '''Function to Run Instrument Signal file with a Independent Thread'''
 def run_script(script_name,symbol , RISK , ds ,TP,SL,pip):
-    logger = setup_logger(f'{symbol}_BA_H4_AddedBySourav.log')
+    logger = logging.getLogger(symbol)
     try:
         script_module = importlib.import_module(script_name)
         script_module.Execution(script_name,symbol , RISK , ds ,TP,SL,pip,logger)
@@ -46,15 +46,13 @@ def files(script_name,symbol , RISK , ds ,TP,SL,pip):
     df_entry = pd.DataFrame(columns= df_cols) 
     df_entry.to_csv(f'{script_name}_entry_signals.csv',index= False)
     
-    logger = setup_logger(f'{symbol}_BA_H4_AddedBySourav.log')
+    setup_logger(f'{symbol}_BA_H4_AddedBySourav.log' , symbol)
 
 
     
      
 ''''Main Function to run the Signal Script File Every 4 Hour from Monday to Friday'''
 def PreMain():
-    global MainLogger
-    
     
 
     # login = 25024739
@@ -65,8 +63,9 @@ def PreMain():
     server = 'Tickmill-Demo'
     path = r'C:\Program Files\MetaTrader 5\terminal64.exe'
     mt5.initialize( login = login , password = password, server = server)
-    MainLogger = setup_logger('thread_H4_Jan24_Signal_EURUSD_GBPUSD_NZDUSD_BySourav.log')
-    
+    setup_logger('thread_H4_Jan24_Signal_EURUSD_GBPUSD_NZDUSD_BySourav.log' , 'MainLogfile')
+    MainLogger = logging.getLogger('MainLogfile')
+    #MainLogger.error('sss')
     
     
     script_args = {
@@ -74,10 +73,21 @@ def PreMain():
         "GBPUSD_trail_Short_H4" : ('GBPUSD' , 0.002 , 0.001 , 2 , 3 , 10) ,
         "NZDUSD_trail_Short_H4" : ('NZDUSD' , 0.002 , 0.001 , 2 , 3 , 10) 
     }
+    
+    # script_args = {
+    #     "NZDUSD_trail_Short_H4" : ('NZDUSD' , 0.002 , 0.001 , 2 , 3 , 10) 
+    # }
 
     for script_name, args in script_args.items():
         symbol = args[0]
         files(script_name,*args)
+    #     thread = threading.Thread(target=run_script, args=(script_name, *args))
+    #     thread.start()
+
+    # for thread in threading.enumerate():
+    #     if thread != threading.current_thread():
+    #         thread.join()
+        
 
 
         
@@ -105,7 +115,8 @@ def PreMain():
                                     for script_name, args in script_args.items():
                                         # create_file(script_name)  # Create a file for each script
                                         symbol = args[0]
-                                        logger = setup_logger(f'{symbol}_BA_H4_AddedBySourav.log')
+                                        logger = logging.getLogger(symbol)
+                                        #setup_logger(f'{symbol}_BA_H4_AddedBySourav.log')
                                         logger.debug(f'AT the next Hour InTime -- SymbolName : {symbol} BrokerTime : {time1}')
                                         thread = threading.Thread(target=run_script, args=(script_name, *args))
                                         thread.start()
@@ -126,7 +137,7 @@ def PreMain():
                                         for script_name, args in script_args.items():
                                             # create_file(script_name)  # Create a file for each script
                                             symbol = args[0]
-                                            logger = setup_logger(f'{symbol}_BA_H4_AddedBySourav.log')
+                                            logger = logging.getLogger(symbol)
                                             logger.debug(f'AT the next Hour InTime -- SymbolName : {symbol} BrokerTime : {time1}')
                                             thread = threading.Thread(target=run_script, args=(script_name, *args))
                                             thread.start()
@@ -140,7 +151,7 @@ def PreMain():
 
                         
                 else:
-                    MainLogger.error("Mt5 Terminal Got Disconnected...")
+                    MainLogger.debug("Mt5 Terminal Got Disconnected...")
                     
                     time1 = (datetime.now())
                     with open(f'NotInitial.txt' , 'a') as file:

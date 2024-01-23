@@ -156,7 +156,7 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                     index = -1
                     df['time']= df['time'].map(lambda Date : datetime.fromtimestamp(Date) -  timedelta(hours= 3))
                     time_false = (datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time)- timedelta(hours=3))
-                    logger.debug(f"Retrying getting Latest candle for H4data of Instrument : {symbol} FalseBrokerTime: {time_hr} H4DfLastIndex : {df.iloc[-1]['time']} NorBrokerTime : {time_false}")
+                    logger.debug(f"Retrying getting Latest candle for H4data of Instrument : {symbol} FalseBrokerTime: {time_hr} H4DfLastIndex : {df.iloc[-1]['time']} NowBrokerTime : {time_false}")
                     if  (df.iloc[-1]['time'].hour == time_hr.hour) or (df.iloc[-1]['time'].hour > time_hr.hour) or ((df.iloc[-1]['time'].hour == 0) and (time_hr.hour >=23)):
                      index = -2
                 

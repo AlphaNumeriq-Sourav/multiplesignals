@@ -183,7 +183,7 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
             df['roc_10'] = sig.rateOfChange(df,10,(1/SL_TpRatio))
             df['roc_5'] = sig.rateOfChange(df,5,(1/SL_TpRatio))
             df['psar'] = sig.parbolsar(df,0.02,0.2)
-            df['CompositeATR'] = sig.CompositeATR(data , 2 , 24)
+            df['CompositeATR'] = sig.CompositeATR(df , 2 , 24)
             
            
            
@@ -259,9 +259,9 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                     df_entry.loc[len(df_entry)] = [i,order_id,order.volume,Price,TP_val,StopLoss,0,flag]
                 
                 
-                else:
-                    logger.debug(f"No entry for {signal} of Instrument : {symbol}  close : {df.iloc[index]['close']} at BrokerTime : {(datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))}")  
-            
+            else:
+                logger.debug(f"No entry for {signal} of Instrument : {symbol}  close : {df.iloc[index]['close']} at BrokerTime : {(datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))}")  
+        
             
     
     # -------------------------x-----------------------x---------------------------x---------------------------x---------------------------x---------------------------

@@ -3,3 +3,6 @@
 2024-01-23 10:59:51.644 | SUCCESS  | __main__:<module>:1 - ss
 2024-01-23 11:01:45.673 | ERROR    | __main__:<module>:3 - message1
 2024-01-23 11:01:46.786 | ERROR    | __main__:<module>:3 - message2
+2024-01-23 12:51:42.245 | ERROR    | __main__:<module>:4 - message1
+2024-01-23 12:51:45.461 | ERROR    | __main__:<module>:3 - message2
+2024-01-23 12:51:47.264 | SUCCESS  | __main__:<module>:1 - ss

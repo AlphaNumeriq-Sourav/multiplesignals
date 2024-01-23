@@ -171,17 +171,17 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
             
             
           
-            df['ADX_2'] = sig.ADX(data , 2)
-            df['ADX_3'] = sig.ADX(data , 3)
-            df['ADX_5'] = sig.ADX(data , 5 )
-            df['ADX_7'] = sig.ADX(data , 7 )
-            df['ADX_9'] = sig.ADX(data , 9 )
-            df['ADX_13'] = sig.ADX(data , 13 )
-            df['ADX_14'] = sig.ADX(data , 14 )
-            df['ADX_17'] = sig.ADX(data , 17 )
-            df['ADX_18'] = sig.ADX(data , 18 )
-            df['ADX_19'] = sig.ADX(data , 19 )
-            df['ADX_20'] = sig.ADX(data , 20)
+            df['ADX_2'] = sig.ADX(df , 2)
+            df['ADX_3'] = sig.ADX(df , 3)
+            df['ADX_5'] = sig.ADX(df , 5 )
+            df['ADX_7'] = sig.ADX(df , 7 )
+            df['ADX_9'] = sig.ADX(df , 9 )
+            df['ADX_13'] = sig.ADX(df , 13 )
+            df['ADX_14'] = sig.ADX(df , 14 )
+            df['ADX_17'] = sig.ADX(df , 17 )
+            df['ADX_18'] = sig.ADX(df , 18 )
+            df['ADX_19'] = sig.ADX(df , 19 )
+            df['ADX_20'] = sig.ADX(df , 20)
             
             
         
@@ -259,9 +259,9 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                     df_entry.loc[len(df_entry)] = [i,order_id,order.volume,Price,TP_val,StopLoss,0,flag]
                 
                 
-                else:
-                    logger.debug(f"No entry for {signal} of Instrument : {symbol}  close : {df.iloc[index]['close']} at BrokerTime : {(datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))}")  
-            
+            else:
+                logger.debug(f"No entry for {signal} of Instrument : {symbol}  close : {df.iloc[index]['close']} at BrokerTime : {(datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))}")  
+        
             
             
     else:
