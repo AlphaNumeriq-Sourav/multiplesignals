@@ -27,7 +27,7 @@ def setup_logger(FileName , LoggerName):
         BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE = range(8)
         COLORS = {
             'DEBUG': BLUE,
-            'INFO': WHITE,
+            'INFO': GREEN,
             'WARNING': YELLOW,
             'ERROR': RED,
             'CRITICAL': RED,

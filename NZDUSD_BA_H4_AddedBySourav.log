@@ -1,0 +1,274 @@
+2024-01-23 10:59:59,518 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-23 12:00:00
+2024-01-23 10:59:59,647 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 10:59:59.647609  BrokerTime : 2024-01-23 12:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 10:59:59,723 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-23 12:00:00 H4DfLastIndex : 2024-01-23 12:00:00
+2024-01-23 11:00:02,565 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.60897 at BrokerTime : 2024-01-23 12:00:02
+2024-01-23 11:00:02,581 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-23 12:00:02
+2024-01-23 11:00:22,799 - DEBUG - AT the next Hour OutTime -- SymbolName : NZDUSD BrokerTime : 2024-01-23 12:00:00
+2024-01-23 14:59:59,733 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-23 16:00:00
+2024-01-23 14:59:59,826 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 14:59:59.826784  BrokerTime : 2024-01-23 16:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 14:59:59,889 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-23 16:00:00 H4DfLastIndex : 2024-01-23 16:00:00
+2024-01-23 15:00:01,748 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.60937 at BrokerTime : 2024-01-23 16:00:01
+2024-01-23 15:00:01,764 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-23 16:00:02
+2024-01-23 15:00:22,717 - DEBUG - AT the next Hour OutTime -- SymbolName : NZDUSD BrokerTime : 2024-01-23 16:00:00
+2024-01-23 19:00:00,043 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-23 20:00:00
+2024-01-23 19:00:00,231 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 19:00:00.231358  BrokerTime : 2024-01-23 20:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 19:00:00,293 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-23 20:00:00 H4DfLastIndex : 2024-01-23 20:00:00
+2024-01-23 19:00:02,746 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.60694 at BrokerTime : 2024-01-23 20:00:02
+2024-01-23 19:00:02,762 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-23 20:00:02
+2024-01-23 19:00:22,949 - DEBUG - AT the next Hour OutTime -- SymbolName : NZDUSD BrokerTime : 2024-01-23 20:00:00
+2024-01-23 23:01:59,918 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:01:59,950 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:01:59.950729  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:01:59,996 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:01,856 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.60751 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:01,856 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:02:22,075 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:22,106 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:02:22.106207  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:02:22,121 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:23,871 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:23,871 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:02:44,059 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:44,059 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:02:44.059296  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:02:44,106 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:45,715 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:45,715 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:03:06,012 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:03:06,074 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:03:06.074934  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:06,199 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:07,606 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:03:07,606 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:03:27,856 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:28,012 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:03:28.012425  BrokerTime : 2024-01-24 00:03:22  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:28,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:03:22 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:29,449 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:29,465 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:03:22
+2024-01-23 23:03:49,621 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:49,637 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:03:49.637424  BrokerTime : 2024-01-24 00:03:22  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:49,653 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:03:22 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:51,137 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:51,137 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:03:22
+2024-01-23 23:04:11,340 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:11,512 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:04:11.512425  BrokerTime : 2024-01-24 00:04:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:11,613 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:04:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:12,918 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:12,918 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:04:01
+2024-01-23 23:04:33,074 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:33,106 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:04:33.106173  BrokerTime : 2024-01-24 00:04:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:33,106 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:04:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:34,949 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:34,949 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:04:01
+2024-01-23 23:04:55,168 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:55,324 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:04:55.324925  BrokerTime : 2024-01-24 00:04:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:55,340 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:04:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:56,684 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:56,684 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:04:01
+2024-01-23 23:05:16,887 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:05:10
+2024-01-23 23:05:16,949 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:05:16.949928  BrokerTime : 2024-01-24 00:05:10  for the New Short Signal Modified by Sourav
+2024-01-23 23:05:17,043 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:05:10 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:05:18,699 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:05:18
+2024-01-23 23:05:18,809 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:05:18
+2024-01-23 23:05:39,309 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:05:39
+2024-01-23 23:05:39,418 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:05:39.418684  BrokerTime : 2024-01-24 00:05:39  for the New Short Signal Modified by Sourav
+2024-01-23 23:05:39,496 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:05:39 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:05:40,965 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:05:39
+2024-01-23 23:05:40,965 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:05:39
+2024-01-23 23:06:01,184 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:06:00
+2024-01-23 23:06:01,199 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:06:01.199933  BrokerTime : 2024-01-24 00:06:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:01,278 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:06:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:02,809 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:06:02
+2024-01-23 23:06:02,809 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:06:02
+2024-01-23 23:06:22,981 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:06:19
+2024-01-23 23:06:22,996 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:06:22.996794  BrokerTime : 2024-01-24 00:06:19  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:23,012 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:06:19 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:24,606 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:06:24
+2024-01-23 23:06:24,621 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:06:24
+2024-01-23 23:06:44,762 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:06:24
+2024-01-23 23:06:44,778 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:06:44.778048  BrokerTime : 2024-01-24 00:06:24  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:44,793 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:06:24 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:46,231 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:06:24
+2024-01-23 23:06:46,231 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:06:24
+2024-01-23 23:07:06,449 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:07:00
+2024-01-23 23:07:06,465 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:07:06.449928  BrokerTime : 2024-01-24 00:07:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:06,465 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:07:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:07,965 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:07:00
+2024-01-23 23:07:07,981 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:07:00
+2024-01-23 23:07:28,121 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:07:19
+2024-01-23 23:07:28,137 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:07:28.137497  BrokerTime : 2024-01-24 00:07:19  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:28,153 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:07:19 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:29,778 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:07:29
+2024-01-23 23:07:29,778 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:07:29
+2024-01-23 23:07:49,918 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:07:49,934 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:07:49.934297  BrokerTime : 2024-01-24 00:07:30  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:49,949 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:07:30 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:51,543 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:07:51,543 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:07:30
+2024-01-23 23:08:11,762 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:08:11,793 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:08:11.793677  BrokerTime : 2024-01-24 00:07:30  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:11,824 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:07:30 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:13,559 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:08:13,559 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:07:30
+2024-01-23 23:08:33,731 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:08:15
+2024-01-23 23:08:33,746 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:08:33.746795  BrokerTime : 2024-01-24 00:08:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:33,746 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:08:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:35,371 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:08:34
+2024-01-23 23:08:35,371 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:08:34
+2024-01-23 23:08:55,559 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:08:34
+2024-01-23 23:08:55,574 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:08:55.574923  BrokerTime : 2024-01-24 00:08:34  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:55,590 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:08:34 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:57,199 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:08:34
+2024-01-23 23:08:57,215 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:08:34
+2024-01-23 23:09:17,387 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:09:13
+2024-01-23 23:09:17,403 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:09:17.403119  BrokerTime : 2024-01-24 00:09:13  for the New Short Signal Modified by Sourav
+2024-01-23 23:09:17,435 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:09:13 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:09:19,090 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:09:13
+2024-01-23 23:09:19,090 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:09:13
+2024-01-23 23:09:39,278 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:09:30
+2024-01-23 23:09:39,293 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:09:39.293677  BrokerTime : 2024-01-24 00:09:30  for the New Short Signal Modified by Sourav
+2024-01-23 23:09:39,309 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:09:30 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:09:41,059 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:09:30
+2024-01-23 23:09:41,074 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:09:30
+2024-01-23 23:10:01,199 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:01,215 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:10:01.215546  BrokerTime : 2024-01-24 00:10:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:01,231 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:10:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:02,778 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:02,778 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:10:00
+2024-01-23 23:10:22,949 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:22,981 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:10:22.981172  BrokerTime : 2024-01-24 00:10:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:22,981 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:10:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:24,717 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:24,731 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:10:00
+2024-01-23 23:10:44,934 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:10:43
+2024-01-23 23:10:44,949 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:10:44.949934  BrokerTime : 2024-01-24 00:10:43  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:44,965 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:10:43 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:46,543 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:10:43
+2024-01-23 23:10:46,543 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:10:43
+2024-01-23 23:11:06,699 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:10:57
+2024-01-23 23:11:06,699 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:11:06.699929  BrokerTime : 2024-01-24 00:10:57  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:06,731 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:10:57 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:08,387 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:10:57
+2024-01-23 23:11:08,387 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:10:57
+2024-01-23 23:11:28,528 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:11:25
+2024-01-23 23:11:28,544 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:11:28.544305  BrokerTime : 2024-01-24 00:11:25  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:28,574 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:11:25 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:30,184 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:11:25
+2024-01-23 23:11:30,184 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:11:25
+2024-01-23 23:11:50,371 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:11:50
+2024-01-23 23:11:50,387 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:11:50.387426  BrokerTime : 2024-01-24 00:11:50  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:50,403 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:11:50 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:52,199 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:11:50
+2024-01-23 23:11:52,215 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:11:50
+2024-01-23 23:12:12,434 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:12:07
+2024-01-23 23:12:12,637 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:12:12.637430  BrokerTime : 2024-01-24 00:12:07  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:12,684 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:12:07 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:13,918 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:12:07
+2024-01-23 23:12:13,934 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:12:07
+2024-01-23 23:12:34,059 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:12:29
+2024-01-23 23:12:34,074 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:12:34.074925  BrokerTime : 2024-01-24 00:12:29  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:34,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:12:29 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:35,684 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:12:29
+2024-01-23 23:12:35,684 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:12:29
+2024-01-23 23:12:55,856 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:12:53
+2024-01-23 23:12:55,856 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:12:55.856178  BrokerTime : 2024-01-24 00:12:53  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:55,887 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:12:53 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:57,403 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:12:53
+2024-01-23 23:12:57,403 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:12:53
+2024-01-23 23:13:17,559 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:17,559 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:13:17.559300  BrokerTime : 2024-01-24 00:13:08  for the New Short Signal Modified by Sourav
+2024-01-23 23:13:17,574 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:13:08 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:13:19,168 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:19,168 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:13:08
+2024-01-23 23:13:39,324 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:39,340 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:13:39.340553  BrokerTime : 2024-01-24 00:13:08  for the New Short Signal Modified by Sourav
+2024-01-23 23:13:39,356 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:13:08 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:13:41,043 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:41,059 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:13:08
+2024-01-23 23:14:01,324 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:13:58
+2024-01-23 23:14:01,481 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:14:01.481181  BrokerTime : 2024-01-24 00:13:58  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:01,496 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:13:58 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:02,653 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:13:58
+2024-01-23 23:14:02,746 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:13:58
+2024-01-23 23:14:23,278 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:23,465 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:14:23.465545  BrokerTime : 2024-01-24 00:14:03  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:23,496 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:14:03 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:24,606 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:24,621 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:14:03
+2024-01-23 23:14:44,762 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:44,793 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:14:44.793672  BrokerTime : 2024-01-24 00:14:03  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:44,809 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:14:03 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:46,387 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:46,387 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:14:03
+2024-01-23 23:15:06,543 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:15:05
+2024-01-23 23:15:06,637 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:15:06.637443  BrokerTime : 2024-01-24 00:15:05  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:06,746 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:15:05 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:08,371 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:15:05
+2024-01-23 23:15:08,371 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:15:05
+2024-01-23 23:15:28,559 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:15:15
+2024-01-23 23:15:28,731 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:15:28.731177  BrokerTime : 2024-01-24 00:15:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:28,840 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:15:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:30,059 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:15:15
+2024-01-23 23:15:30,059 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:15:15
+2024-01-23 23:15:50,246 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:15:44
+2024-01-23 23:15:50,418 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:15:50.418672  BrokerTime : 2024-01-24 00:15:44  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:50,418 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:15:44 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:51,856 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:15:44
+2024-01-23 23:15:51,871 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:15:44
+2024-01-23 23:16:12,028 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:16:09
+2024-01-23 23:16:12,028 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:16:12.028049  BrokerTime : 2024-01-24 00:16:09  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:12,043 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:16:09 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:13,559 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:16:09
+2024-01-23 23:16:13,559 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:16:09
+2024-01-23 23:16:33,731 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:33,746 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:16:33.746804  BrokerTime : 2024-01-24 00:16:19  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:33,793 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:16:19 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:35,403 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:35,418 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:16:19
+2024-01-23 23:16:55,684 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:55,809 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:16:55.809297  BrokerTime : 2024-01-24 00:16:19  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:55,918 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:16:19 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:57,012 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:57,012 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:16:19
+2024-01-23 23:17:17,387 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:17:01
+2024-01-23 23:17:17,668 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:17:17.668690  BrokerTime : 2024-01-24 00:17:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:17:17,715 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:17:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:17:18,856 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:17:01
+2024-01-23 23:17:18,871 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:17:01
+2024-01-23 23:17:39,043 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:17:34
+2024-01-23 23:17:39,074 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:17:39.074924  BrokerTime : 2024-01-24 00:17:34  for the New Short Signal Modified by Sourav
+2024-01-23 23:17:39,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:17:34 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:17:40,731 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:17:34
+2024-01-23 23:17:40,731 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:17:34
+2024-01-23 23:18:00,934 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:17:55
+2024-01-23 23:18:00,965 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:18:00.965548  BrokerTime : 2024-01-24 00:17:55  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:00,981 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:17:55 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:02,684 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:17:55
+2024-01-23 23:18:02,684 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:17:55
+2024-01-23 23:18:22,903 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:18:06
+2024-01-23 23:18:22,903 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:18:22.903045  BrokerTime : 2024-01-24 00:18:06  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:22,934 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:18:06 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:24,418 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:18:06
+2024-01-23 23:18:24,434 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:18:06
+2024-01-23 23:18:44,590 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:18:35
+2024-01-23 23:18:44,606 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:18:44.606180  BrokerTime : 2024-01-24 00:18:35  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:44,621 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:18:35 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:46,356 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:18:35
+2024-01-23 23:18:46,356 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:18:35
+2024-01-23 23:19:06,575 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:06,809 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:19:06.809300  BrokerTime : 2024-01-24 00:19:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:06,824 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:19:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:08,106 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:08,106 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:19:01
+2024-01-23 23:19:28,293 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:28,309 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:19:28.309296  BrokerTime : 2024-01-24 00:19:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:28,324 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:19:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:29,871 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:29,871 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:19:01
+2024-01-23 23:19:50,074 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 00:19:40
+2024-01-23 23:19:50,278 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-23 23:19:50.278046  BrokerTime : 2024-01-24 00:19:40  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:50,403 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 00:19:40 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:51,574 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61016 at BrokerTime : 2024-01-24 00:19:40
+2024-01-23 23:19:51,574 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 00:19:40
+2024-01-24 03:00:00,049 - DEBUG - AT the next Hour InTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 04:00:00
+2024-01-24 03:00:00,111 - DEBUG - Running Event Loop of Instrument:NZDUSD at ServerTime : 2024-01-24 03:00:00.111476  BrokerTime : 2024-01-24 04:00:00  for the New Short Signal Modified by Sourav
+2024-01-24 03:00:00,205 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : NZDUSD BrokerTime: 2024-01-24 04:00:00 H4DfLastIndex : 2024-01-24 04:00:00
+2024-01-24 03:00:02,345 - DEBUG - No entry for signal1 of Instrument : NZDUSD  close : 0.61028 at BrokerTime : 2024-01-24 04:00:02
+2024-01-24 03:00:02,345 - DEBUG - Function Out of NZDUSD NextSignalCheckTime 2024-01-24 04:00:02
+2024-01-24 03:00:22,486 - DEBUG - AT the next Hour OutTime -- SymbolName : NZDUSD BrokerTime : 2024-01-24 04:00:00

@@ -69,9 +69,9 @@ def PreMain():
     
     
     script_args = {
-        "EURUSD_Short_H4" : ('EURUSD' , 0.002 , 0.001 , 2 , 3 , 10),
-        "GBPUSD_trail_Short_H4" : ('GBPUSD' , 0.002 , 0.001 , 2 , 3 , 10) ,
-        "NZDUSD_trail_Short_H4" : ('NZDUSD' , 0.002 , 0.001 , 2 , 3 , 10) 
+        "EURUSD_Short_H4" : ('EURUSD' , 0.002 , 0.0001 , 2 , 3 , 10),
+        "GBPUSD_trail_Short_H4" : ('GBPUSD' , 0.002 , 0.0001 , 2 , 3 , 10) ,
+        "NZDUSD_trail_Short_H4" : ('NZDUSD' , 0.002 , 0.0001 , 2 , 3 , 10) 
     }
     
     # script_args = {
@@ -141,6 +141,7 @@ def PreMain():
                                             logger.debug(f'AT the next Hour InTime -- SymbolName : {symbol} BrokerTime : {time1}')
                                             thread = threading.Thread(target=run_script, args=(script_name, *args))
                                             thread.start()
+                                            
 
                                         for thread in threading.enumerate():
                                             if thread != threading.current_thread():

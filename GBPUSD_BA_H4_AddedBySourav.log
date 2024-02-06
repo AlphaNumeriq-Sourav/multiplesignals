@@ -1,0 +1,654 @@
+2024-01-23 10:59:59,518 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-23 12:00:00
+2024-01-23 10:59:59,596 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 10:59:59.596393  BrokerTime : 2024-01-23 12:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 10:59:59,596 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-23 12:00:00 H4DfLastIndex : 2024-01-23 12:00:00
+2024-01-23 11:00:02,753 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27285 at BrokerTime : 2024-01-23 12:00:02
+2024-01-23 11:00:02,779 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27285 at BrokerTime : 2024-01-23 12:00:02
+2024-01-23 11:00:02,784 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-23 12:00:02
+2024-01-23 14:59:59,702 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-23 16:00:00
+2024-01-23 14:59:59,904 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 14:59:59.904895  BrokerTime : 2024-01-23 16:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 14:59:59,904 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-23 16:00:00 H4DfLastIndex : 2024-01-23 16:00:00
+2024-01-23 15:00:02,701 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.2708300000000001 at BrokerTime : 2024-01-23 16:00:03
+2024-01-23 15:00:02,701 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.2708300000000001 at BrokerTime : 2024-01-23 16:00:03
+2024-01-23 15:00:02,701 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-23 16:00:03
+2024-01-23 18:59:59,934 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-23 20:00:00
+2024-01-23 19:00:00,106 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 19:00:00.106173  BrokerTime : 2024-01-23 20:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 19:00:00,324 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-23 20:00:00 H4DfLastIndex : 2024-01-23 20:00:00
+2024-01-23 19:00:02,934 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26576 at BrokerTime : 2024-01-23 20:00:02
+2024-01-23 19:00:02,934 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26576 at BrokerTime : 2024-01-23 20:00:02
+2024-01-23 19:00:02,934 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-23 20:00:02
+2024-01-23 23:01:59,903 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:01:59,950 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:01:59.950729  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:01:59,981 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:01,996 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:02,012 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:02,012 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:02:22,059 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:22,106 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:02:22.106207  BrokerTime : 2024-01-24 00:02:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:02:22,121 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:02:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:24,012 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:15
+2024-01-23 23:02:24,012 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:15
+2024-01-23 23:02:24,012 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:02:15
+2024-01-23 23:02:44,043 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:44,059 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:02:44.059296  BrokerTime : 2024-01-24 00:02:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:02:44,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:02:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:45,840 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:15
+2024-01-23 23:02:45,840 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:15
+2024-01-23 23:02:45,840 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:02:15
+2024-01-23 23:03:05,871 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:03:06,090 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:03:06.090548  BrokerTime : 2024-01-24 00:02:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:06,168 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:02:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:07,746 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:15
+2024-01-23 23:03:07,746 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:02:15
+2024-01-23 23:03:07,746 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:02:15
+2024-01-23 23:03:27,778 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:27,981 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:03:27.981172  BrokerTime : 2024-01-24 00:03:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:28,043 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:03:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:29,574 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:03:15
+2024-01-23 23:03:29,574 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:03:15
+2024-01-23 23:03:29,574 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:03:15
+2024-01-23 23:03:49,606 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:49,621 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:03:49.621798  BrokerTime : 2024-01-24 00:03:30  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:49,637 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:03:30 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:51,262 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:03:30
+2024-01-23 23:03:51,262 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:03:30
+2024-01-23 23:03:51,262 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:03:30
+2024-01-23 23:04:11,293 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:11,434 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:04:11.434298  BrokerTime : 2024-01-24 00:04:02  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:11,590 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:04:02 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:13,043 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:04:02
+2024-01-23 23:04:13,043 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:04:02
+2024-01-23 23:04:13,043 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:04:02
+2024-01-23 23:04:33,074 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:33,074 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:04:33.074925  BrokerTime : 2024-01-24 00:04:02  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:33,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:04:02 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:35,059 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:04:34
+2024-01-23 23:04:35,059 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:04:34
+2024-01-23 23:04:35,059 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:04:34
+2024-01-23 23:04:55,074 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:55,262 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:04:55.262421  BrokerTime : 2024-01-24 00:04:34  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:55,324 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:04:34 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:56,809 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:04:34
+2024-01-23 23:04:56,809 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:04:34
+2024-01-23 23:04:56,824 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:04:34
+2024-01-23 23:05:16,856 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:05:10
+2024-01-23 23:05:16,887 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:05:16.887435  BrokerTime : 2024-01-24 00:05:14  for the New Short Signal Modified by Sourav
+2024-01-23 23:05:17,043 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:05:14 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:05:19,090 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:05:18
+2024-01-23 23:05:19,090 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:05:18
+2024-01-23 23:05:19,090 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:05:18
+2024-01-23 23:05:39,122 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:05:39
+2024-01-23 23:05:39,278 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:05:39.278053  BrokerTime : 2024-01-24 00:05:39  for the New Short Signal Modified by Sourav
+2024-01-23 23:05:39,481 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:05:39 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:05:41,153 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:05:41
+2024-01-23 23:05:41,153 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:05:41
+2024-01-23 23:05:41,153 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:05:41
+2024-01-23 23:06:01,184 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:06:00
+2024-01-23 23:06:01,199 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:06:01.199933  BrokerTime : 2024-01-24 00:06:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:01,278 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:06:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:02,949 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:02
+2024-01-23 23:06:02,949 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:02
+2024-01-23 23:06:02,949 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:06:02
+2024-01-23 23:06:22,965 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:06:19
+2024-01-23 23:06:22,996 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:06:22.996794  BrokerTime : 2024-01-24 00:06:22  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:22,996 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:06:22 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:24,731 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:22
+2024-01-23 23:06:24,731 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:22
+2024-01-23 23:06:24,731 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:06:22
+2024-01-23 23:06:44,746 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:06:24
+2024-01-23 23:06:44,778 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:06:44.778048  BrokerTime : 2024-01-24 00:06:38  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:44,793 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:06:38 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:46,403 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:38
+2024-01-23 23:06:46,403 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:38
+2024-01-23 23:06:46,403 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:06:38
+2024-01-23 23:07:06,434 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:07:00
+2024-01-23 23:07:06,449 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:07:06.449928  BrokerTime : 2024-01-24 00:06:59  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:06,449 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:06:59 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:08,090 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:59
+2024-01-23 23:07:08,090 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:59
+2024-01-23 23:07:08,090 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:06:59
+2024-01-23 23:07:28,121 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:07:19
+2024-01-23 23:07:28,121 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:07:28.121795  BrokerTime : 2024-01-24 00:06:59  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:28,137 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:06:59 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:29,887 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:59
+2024-01-23 23:07:29,887 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:06:59
+2024-01-23 23:07:29,887 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:06:59
+2024-01-23 23:07:49,918 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:07:49,918 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:07:49.918671  BrokerTime : 2024-01-24 00:07:40  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:49,934 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:07:40 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:51,715 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:07:40
+2024-01-23 23:07:51,715 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:07:40
+2024-01-23 23:07:51,715 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:07:40
+2024-01-23 23:08:11,746 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:08:11,793 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:08:11.793677  BrokerTime : 2024-01-24 00:07:54  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:11,793 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:07:54 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:13,699 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:07:54
+2024-01-23 23:08:13,699 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:07:54
+2024-01-23 23:08:13,699 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:07:54
+2024-01-23 23:08:33,731 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:08:15
+2024-01-23 23:08:33,731 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:08:33.731170  BrokerTime : 2024-01-24 00:08:32  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:33,762 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:08:32 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:35,528 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:08:32
+2024-01-23 23:08:35,528 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:08:32
+2024-01-23 23:08:35,528 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:08:32
+2024-01-23 23:08:55,543 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:08:34
+2024-01-23 23:08:55,559 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:08:55.559350  BrokerTime : 2024-01-24 00:08:32  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:55,574 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:08:32 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:57,340 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:08:56
+2024-01-23 23:08:57,340 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:08:56
+2024-01-23 23:08:57,340 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:08:56
+2024-01-23 23:09:17,371 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:09:13
+2024-01-23 23:09:17,387 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:09:17.387433  BrokerTime : 2024-01-24 00:09:16  for the New Short Signal Modified by Sourav
+2024-01-23 23:09:17,403 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:09:16 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:09:19,231 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:09:19
+2024-01-23 23:09:19,231 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:09:19
+2024-01-23 23:09:19,231 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:09:19
+2024-01-23 23:09:39,278 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:09:30
+2024-01-23 23:09:39,278 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:09:39.278046  BrokerTime : 2024-01-24 00:09:34  for the New Short Signal Modified by Sourav
+2024-01-23 23:09:39,293 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:09:34 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:09:41,184 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:09:41
+2024-01-23 23:09:41,184 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:09:41
+2024-01-23 23:09:41,184 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:09:41
+2024-01-23 23:10:01,199 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:01,215 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:10:01.215546  BrokerTime : 2024-01-24 00:10:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:01,231 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:10:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:02,918 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:02
+2024-01-23 23:10:02,918 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:02
+2024-01-23 23:10:02,918 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:10:02
+2024-01-23 23:10:22,949 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:22,949 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:10:22.949922  BrokerTime : 2024-01-24 00:10:18  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:22,981 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:10:18 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:24,903 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:18
+2024-01-23 23:10:24,903 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:18
+2024-01-23 23:10:24,903 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:10:18
+2024-01-23 23:10:44,934 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:10:43
+2024-01-23 23:10:44,949 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:10:44.934299  BrokerTime : 2024-01-24 00:10:18  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:44,949 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:10:18 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:46,653 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:18
+2024-01-23 23:10:46,653 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:18
+2024-01-23 23:10:46,653 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:10:18
+2024-01-23 23:11:06,684 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:10:57
+2024-01-23 23:11:06,699 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:11:06.699929  BrokerTime : 2024-01-24 00:10:18  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:06,715 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:10:18 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:08,512 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:18
+2024-01-23 23:11:08,512 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:10:18
+2024-01-23 23:11:08,512 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:10:18
+2024-01-23 23:11:28,528 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:11:25
+2024-01-23 23:11:28,528 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:11:28.528061  BrokerTime : 2024-01-24 00:11:24  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:28,544 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:11:24 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:30,324 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:11:24
+2024-01-23 23:11:30,324 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:11:24
+2024-01-23 23:11:30,324 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:11:24
+2024-01-23 23:11:50,356 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:11:50
+2024-01-23 23:11:50,371 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:11:50.371803  BrokerTime : 2024-01-24 00:11:43  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:50,403 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:11:43 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:52,340 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:11:43
+2024-01-23 23:11:52,340 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:11:43
+2024-01-23 23:11:52,340 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:11:43
+2024-01-23 23:12:12,371 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:12:07
+2024-01-23 23:12:12,590 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:12:12.590559  BrokerTime : 2024-01-24 00:12:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:12,668 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:12:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:14,043 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:12:00
+2024-01-23 23:12:14,043 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:12:00
+2024-01-23 23:12:14,043 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:12:00
+2024-01-23 23:12:34,059 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:12:29
+2024-01-23 23:12:34,074 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:12:34.074925  BrokerTime : 2024-01-24 00:12:29  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:34,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:12:29 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:35,809 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:12:29
+2024-01-23 23:12:35,809 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:12:29
+2024-01-23 23:12:35,809 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:12:29
+2024-01-23 23:12:55,840 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:12:53
+2024-01-23 23:12:55,856 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:12:55.856178  BrokerTime : 2024-01-24 00:12:53  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:55,871 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:12:53 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:57,512 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:12:53
+2024-01-23 23:12:57,512 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:12:53
+2024-01-23 23:12:57,512 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:12:53
+2024-01-23 23:13:17,543 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:17,559 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:13:17.559300  BrokerTime : 2024-01-24 00:13:12  for the New Short Signal Modified by Sourav
+2024-01-23 23:13:17,574 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:13:12 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:13:19,293 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:13:12
+2024-01-23 23:13:19,293 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:13:12
+2024-01-23 23:13:19,293 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:13:12
+2024-01-23 23:13:39,324 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:39,324 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:13:39.324923  BrokerTime : 2024-01-24 00:13:22  for the New Short Signal Modified by Sourav
+2024-01-23 23:13:39,356 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:13:22 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:13:41,199 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:13:22
+2024-01-23 23:13:41,199 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:13:22
+2024-01-23 23:13:41,215 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:13:22
+2024-01-23 23:14:01,246 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:13:58
+2024-01-23 23:14:01,465 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:14:01.465553  BrokerTime : 2024-01-24 00:13:53  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:01,512 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:13:53 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:02,965 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:14:02
+2024-01-23 23:14:02,965 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:14:02
+2024-01-23 23:14:02,965 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:14:02
+2024-01-23 23:14:22,996 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:23,231 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:14:23.231175  BrokerTime : 2024-01-24 00:14:22  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:23,403 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:14:22 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:24,746 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:14:22
+2024-01-23 23:14:24,746 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:14:22
+2024-01-23 23:14:24,746 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:14:22
+2024-01-23 23:14:44,762 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:44,762 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:14:44.762426  BrokerTime : 2024-01-24 00:14:22  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:44,793 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:14:22 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:46,512 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:14:22
+2024-01-23 23:14:46,512 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:14:22
+2024-01-23 23:14:46,512 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:14:22
+2024-01-23 23:15:06,543 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:15:05
+2024-01-23 23:15:06,543 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:15:06.543855  BrokerTime : 2024-01-24 00:15:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:06,590 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:15:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:08,481 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:15:00
+2024-01-23 23:15:08,481 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:15:00
+2024-01-23 23:15:08,481 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:15:00
+2024-01-23 23:15:28,496 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:15:15
+2024-01-23 23:15:28,699 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:15:28.699928  BrokerTime : 2024-01-24 00:15:23  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:28,824 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:15:23 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:30,168 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:15:23
+2024-01-23 23:15:30,168 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:15:23
+2024-01-23 23:15:30,168 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:15:23
+2024-01-23 23:15:50,199 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:15:44
+2024-01-23 23:15:50,371 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:15:50.371796  BrokerTime : 2024-01-24 00:15:50  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:50,434 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:15:50 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:51,996 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:15:50
+2024-01-23 23:15:51,996 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:15:50
+2024-01-23 23:15:51,996 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:15:50
+2024-01-23 23:16:12,012 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:16:09
+2024-01-23 23:16:12,028 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:16:12.028049  BrokerTime : 2024-01-24 00:16:10  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:12,043 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:16:10 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:13,684 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:16:13
+2024-01-23 23:16:13,684 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:16:13
+2024-01-23 23:16:13,699 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:16:13
+2024-01-23 23:16:33,731 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:33,731 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:16:33.731173  BrokerTime : 2024-01-24 00:16:13  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:33,762 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:16:13 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:35,528 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:16:34
+2024-01-23 23:16:35,528 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:16:34
+2024-01-23 23:16:35,528 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:16:34
+2024-01-23 23:16:55,543 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:55,762 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:16:55.762421  BrokerTime : 2024-01-24 00:16:54  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:55,856 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:16:54 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:57,137 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:16:54
+2024-01-23 23:16:57,137 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:16:54
+2024-01-23 23:16:57,137 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:16:54
+2024-01-23 23:17:17,168 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:17:01
+2024-01-23 23:17:17,387 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:17:17.387427  BrokerTime : 2024-01-24 00:17:04  for the New Short Signal Modified by Sourav
+2024-01-23 23:17:17,606 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:17:04 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:17:18,996 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:17:04
+2024-01-23 23:17:18,996 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:17:04
+2024-01-23 23:17:18,996 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:17:04
+2024-01-23 23:17:39,043 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:17:34
+2024-01-23 23:17:39,043 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:17:39.043671  BrokerTime : 2024-01-24 00:17:04  for the New Short Signal Modified by Sourav
+2024-01-23 23:17:39,074 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:17:04 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:17:40,903 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:17:04
+2024-01-23 23:17:40,903 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:17:04
+2024-01-23 23:17:40,903 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:17:04
+2024-01-23 23:18:00,918 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:17:55
+2024-01-23 23:18:00,934 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:18:00.934298  BrokerTime : 2024-01-24 00:17:04  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:00,949 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:17:04 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:02,824 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:17:04
+2024-01-23 23:18:02,824 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:17:04
+2024-01-23 23:18:02,824 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:17:04
+2024-01-23 23:18:22,887 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:18:06
+2024-01-23 23:18:22,903 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:18:22.903045  BrokerTime : 2024-01-24 00:18:08  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:22,918 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:18:08 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:24,559 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:18:08
+2024-01-23 23:18:24,559 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:18:08
+2024-01-23 23:18:24,559 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:18:08
+2024-01-23 23:18:44,590 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:18:35
+2024-01-23 23:18:44,606 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:18:44.606180  BrokerTime : 2024-01-24 00:18:36  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:44,621 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:18:36 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:46,481 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:18:46
+2024-01-23 23:18:46,481 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:18:46
+2024-01-23 23:18:46,481 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:18:46
+2024-01-23 23:19:06,512 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:06,684 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:19:06.684299  BrokerTime : 2024-01-24 00:19:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:06,871 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:19:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:08,262 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:19:00
+2024-01-23 23:19:08,262 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:19:00
+2024-01-23 23:19:08,262 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:19:00
+2024-01-23 23:19:28,293 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:28,293 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:19:28.293671  BrokerTime : 2024-01-24 00:19:27  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:28,324 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:19:27 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:29,996 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:19:29
+2024-01-23 23:19:29,996 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:19:29
+2024-01-23 23:19:29,996 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:19:29
+2024-01-23 23:19:50,028 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 00:19:40
+2024-01-23 23:19:50,168 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-23 23:19:50.168679  BrokerTime : 2024-01-24 00:19:48  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:50,278 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 00:19:50 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:51,699 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:19:50
+2024-01-23 23:19:51,699 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.26861 at BrokerTime : 2024-01-24 00:19:50
+2024-01-23 23:19:51,699 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 00:19:50
+2024-01-24 03:00:00,002 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 04:00:00
+2024-01-24 03:00:00,189 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 03:00:00.173974  BrokerTime : 2024-01-24 04:00:00  for the New Short Signal Modified by Sourav
+2024-01-24 03:00:00,220 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 04:00:00 H4DfLastIndex : 2024-01-24 04:00:00
+2024-01-24 03:00:02,470 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.2692700000000001 at BrokerTime : 2024-01-24 04:00:01
+2024-01-24 03:00:02,470 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.2692700000000001 at BrokerTime : 2024-01-24 04:00:01
+2024-01-24 03:00:02,470 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 04:00:01
+2024-01-24 07:00:00,049 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 07:59:59
+2024-01-24 07:00:00,133 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 07:00:00.133310  BrokerTime : 2024-01-24 08:00:00  for the New Short Signal Modified by Sourav
+2024-01-24 07:00:00,205 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 08:00:00 H4DfLastIndex : 2024-01-24 08:00:00
+2024-01-24 07:00:03,002 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.2702200000000001 at BrokerTime : 2024-01-24 08:00:01
+2024-01-24 07:00:03,002 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.2702200000000001 at BrokerTime : 2024-01-24 08:00:03
+2024-01-24 07:00:03,002 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 08:00:03
+2024-01-24 11:00:00,267 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 12:00:00
+2024-01-24 11:00:00,314 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 11:00:00.299101  BrokerTime : 2024-01-24 12:00:00  for the New Short Signal Modified by Sourav
+2024-01-24 11:00:00,361 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 12:00:00 H4DfLastIndex : 2024-01-24 12:00:00
+2024-01-24 11:00:02,908 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27646 at BrokerTime : 2024-01-24 12:00:02
+2024-01-24 11:00:02,908 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27646 at BrokerTime : 2024-01-24 12:00:02
+2024-01-24 11:00:02,908 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 12:00:02
+2024-01-24 15:00:00,265 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 16:00:00
+2024-01-24 15:00:00,296 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 15:00:00.296537  BrokerTime : 2024-01-24 16:00:00  for the New Short Signal Modified by Sourav
+2024-01-24 15:00:00,312 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 16:00:00 H4DfLastIndex : 2024-01-24 16:00:00
+2024-01-24 15:00:03,233 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27668 at BrokerTime : 2024-01-24 16:00:02
+2024-01-24 15:00:03,233 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27668 at BrokerTime : 2024-01-24 16:00:02
+2024-01-24 15:00:03,233 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-24 16:00:02
+2024-01-24 19:00:00,374 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-24 20:00:00
+2024-01-24 19:00:00,437 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 19:00:00.437644  BrokerTime : 2024-01-24 20:00:00  for the New Short Signal Modified by Sourav
+2024-01-24 19:00:00,453 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-24 20:00:00 H4DfLastIndex : 2024-01-24 20:00:00
+2024-01-24 19:00:03,093 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27481 at BrokerTime : 2024-01-24 20:00:02
+2024-01-24 19:00:03,093 - DEBUG - Got Short Indication Candle for signal2 GBPUSD at BrokerTime : 2024-01-24 20:00:02
+2024-01-24 19:00:03,108 - DEBUG - 1.27481 atr: 0.0037881092942177023 
+2024-01-24 23:02:00,469 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:00,515 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:02:00.515182  BrokerTime : 2024-01-25 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:02:00,546 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:02:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:02:02,452 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:02,452 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:02,452 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:02:00
+2024-01-24 23:02:22,484 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:02:03
+2024-01-24 23:02:22,608 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:02:22.608914  BrokerTime : 2024-01-25 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:02:22,671 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:02:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:02:24,296 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:24,296 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:24,296 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:02:00
+2024-01-24 23:02:44,312 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:02:03
+2024-01-24 23:02:44,327 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:02:44.327661  BrokerTime : 2024-01-25 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:02:44,327 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:02:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:02:46,155 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:46,155 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:02:46,155 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:02:00
+2024-01-24 23:03:06,171 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:02:03
+2024-01-24 23:03:06,202 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:03:06.202659  BrokerTime : 2024-01-25 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:03:06,218 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:02:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:03:08,062 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:03:08,062 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:03:08,062 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:02:00
+2024-01-24 23:03:28,077 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:02:03
+2024-01-24 23:03:28,093 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:03:28.093283  BrokerTime : 2024-01-25 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:03:28,093 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:02:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:03:29,937 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:03:29,937 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:03:29,937 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:02:00
+2024-01-24 23:03:49,952 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:02:03
+2024-01-24 23:03:49,983 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:03:49.983911  BrokerTime : 2024-01-25 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:03:49,983 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:02:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:03:51,812 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:03:51,812 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:02:00
+2024-01-24 23:03:51,812 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:02:00
+2024-01-24 23:04:11,827 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:04:10
+2024-01-24 23:04:11,843 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:04:11.843282  BrokerTime : 2024-01-25 00:04:06  for the New Short Signal Modified by Sourav
+2024-01-24 23:04:11,843 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:04:06 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:04:13,671 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:04:06
+2024-01-24 23:04:13,687 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:04:06
+2024-01-24 23:04:13,687 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:04:06
+2024-01-24 23:04:33,702 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:04:33
+2024-01-24 23:04:33,827 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:04:33.827665  BrokerTime : 2024-01-25 00:04:06  for the New Short Signal Modified by Sourav
+2024-01-24 23:04:33,905 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:04:06 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:04:37,140 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:04:06
+2024-01-24 23:04:37,140 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:04:06
+2024-01-24 23:04:37,140 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:04:06
+2024-01-24 23:04:57,155 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:04:47
+2024-01-24 23:04:57,171 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:04:57.171412  BrokerTime : 2024-01-25 00:04:06  for the New Short Signal Modified by Sourav
+2024-01-24 23:04:57,171 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:04:06 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:04:58,905 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:04:06
+2024-01-24 23:04:58,905 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:04:06
+2024-01-24 23:04:58,905 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:04:06
+2024-01-24 23:05:18,937 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:05:00
+2024-01-24 23:05:18,952 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:05:18.952663  BrokerTime : 2024-01-25 00:05:16  for the New Short Signal Modified by Sourav
+2024-01-24 23:05:18,999 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:05:16 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:05:20,905 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:05:19
+2024-01-24 23:05:20,905 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:05:19
+2024-01-24 23:05:20,905 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:05:19
+2024-01-24 23:05:40,921 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:05:00
+2024-01-24 23:05:40,952 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:05:40.952661  BrokerTime : 2024-01-25 00:05:34  for the New Short Signal Modified by Sourav
+2024-01-24 23:05:41,062 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:05:34 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:05:42,827 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:05:34
+2024-01-24 23:05:42,827 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:05:34
+2024-01-24 23:05:42,827 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:05:34
+2024-01-24 23:06:02,843 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:06:01
+2024-01-24 23:06:02,858 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:06:02.858911  BrokerTime : 2024-01-25 00:05:34  for the New Short Signal Modified by Sourav
+2024-01-24 23:06:02,890 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:05:34 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:06:04,749 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:05:34
+2024-01-24 23:06:04,749 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:05:34
+2024-01-24 23:06:04,749 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:05:34
+2024-01-24 23:06:24,765 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:06:14
+2024-01-24 23:06:24,796 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:06:24.796412  BrokerTime : 2024-01-25 00:06:14  for the New Short Signal Modified by Sourav
+2024-01-24 23:06:24,796 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:06:14 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:06:26,577 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:14
+2024-01-24 23:06:26,577 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:14
+2024-01-24 23:06:26,577 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:06:14
+2024-01-24 23:06:46,593 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:06:14
+2024-01-24 23:06:46,608 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:06:46.608914  BrokerTime : 2024-01-25 00:06:34  for the New Short Signal Modified by Sourav
+2024-01-24 23:06:46,624 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:06:34 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:06:48,452 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:34
+2024-01-24 23:06:48,452 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:34
+2024-01-24 23:06:48,452 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:06:34
+2024-01-24 23:07:08,468 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:06:55
+2024-01-24 23:07:08,499 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:07:08.499534  BrokerTime : 2024-01-25 00:06:34  for the New Short Signal Modified by Sourav
+2024-01-24 23:07:08,515 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:06:34 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:07:10,405 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:34
+2024-01-24 23:07:10,405 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:34
+2024-01-24 23:07:10,405 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:06:34
+2024-01-24 23:07:30,421 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:06:55
+2024-01-24 23:07:30,562 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:07:30.562044  BrokerTime : 2024-01-25 00:06:34  for the New Short Signal Modified by Sourav
+2024-01-24 23:07:30,577 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:06:34 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:07:32,374 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:34
+2024-01-24 23:07:32,374 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:06:34
+2024-01-24 23:07:32,374 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:06:34
+2024-01-24 23:07:52,390 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:06:55
+2024-01-24 23:07:52,405 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:07:52.405783  BrokerTime : 2024-01-25 00:07:50  for the New Short Signal Modified by Sourav
+2024-01-24 23:07:52,405 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:07:50 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:07:54,156 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:07:50
+2024-01-24 23:07:54,156 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:07:50
+2024-01-24 23:07:54,156 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:07:50
+2024-01-24 23:08:14,174 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:07:55
+2024-01-24 23:08:14,187 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:08:14.187032  BrokerTime : 2024-01-25 00:08:08  for the New Short Signal Modified by Sourav
+2024-01-24 23:08:14,202 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:08:08 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:08:16,093 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:08:15
+2024-01-24 23:08:16,093 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:08:15
+2024-01-24 23:08:16,093 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:08:15
+2024-01-24 23:08:36,108 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:07:55
+2024-01-24 23:08:36,155 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:08:36.155797  BrokerTime : 2024-01-25 00:08:29  for the New Short Signal Modified by Sourav
+2024-01-24 23:08:36,187 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:08:29 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:08:37,983 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:08:29
+2024-01-24 23:08:37,983 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:08:29
+2024-01-24 23:08:37,983 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:08:29
+2024-01-24 23:08:57,999 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:07:55
+2024-01-24 23:08:58,015 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:08:58.015156  BrokerTime : 2024-01-25 00:08:52  for the New Short Signal Modified by Sourav
+2024-01-24 23:08:58,030 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:08:52 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:08:59,827 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:08:59
+2024-01-24 23:08:59,827 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:08:59
+2024-01-24 23:08:59,827 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:08:59
+2024-01-24 23:09:19,843 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:08:59
+2024-01-24 23:09:19,858 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:09:19.858912  BrokerTime : 2024-01-25 00:09:19  for the New Short Signal Modified by Sourav
+2024-01-24 23:09:19,874 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:09:19 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:09:21,655 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:09:19
+2024-01-24 23:09:21,655 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:09:19
+2024-01-24 23:09:21,655 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:09:19
+2024-01-24 23:09:41,671 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:08:59
+2024-01-24 23:09:41,702 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:09:41.702661  BrokerTime : 2024-01-25 00:09:40  for the New Short Signal Modified by Sourav
+2024-01-24 23:09:41,702 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:09:40 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:09:43,562 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:09:40
+2024-01-24 23:09:43,562 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:09:40
+2024-01-24 23:09:43,562 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:09:40
+2024-01-24 23:10:03,593 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:10:00
+2024-01-24 23:10:03,608 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:10:03.608910  BrokerTime : 2024-01-25 00:10:02  for the New Short Signal Modified by Sourav
+2024-01-24 23:10:03,608 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:10:02 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:10:05,390 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:02
+2024-01-24 23:10:05,405 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:02
+2024-01-24 23:10:05,405 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:10:02
+2024-01-24 23:10:25,421 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:10:00
+2024-01-24 23:10:25,453 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:10:25.453333  BrokerTime : 2024-01-25 00:10:20  for the New Short Signal Modified by Sourav
+2024-01-24 23:10:25,468 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:10:20 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:10:27,296 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:26
+2024-01-24 23:10:27,312 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:26
+2024-01-24 23:10:27,312 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:10:26
+2024-01-24 23:10:47,327 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:10:44
+2024-01-24 23:10:47,343 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:10:47.343286  BrokerTime : 2024-01-25 00:10:43  for the New Short Signal Modified by Sourav
+2024-01-24 23:10:47,358 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:10:43 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:10:49,155 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:43
+2024-01-24 23:10:49,155 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:43
+2024-01-24 23:10:49,155 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:10:43
+2024-01-24 23:11:09,171 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:11:04
+2024-01-24 23:11:09,187 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:11:09.187034  BrokerTime : 2024-01-25 00:10:43  for the New Short Signal Modified by Sourav
+2024-01-24 23:11:09,202 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:10:43 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:11:10,999 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:43
+2024-01-24 23:11:10,999 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:43
+2024-01-24 23:11:11,015 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:10:43
+2024-01-24 23:11:31,030 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:11:30
+2024-01-24 23:11:31,077 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:11:31.077662  BrokerTime : 2024-01-25 00:10:43  for the New Short Signal Modified by Sourav
+2024-01-24 23:11:31,093 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:10:43 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:11:32,858 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:43
+2024-01-24 23:11:32,858 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:10:43
+2024-01-24 23:11:32,858 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:10:43
+2024-01-24 23:11:52,874 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:11:40
+2024-01-24 23:11:52,952 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:11:52.952663  BrokerTime : 2024-01-25 00:11:45  for the New Short Signal Modified by Sourav
+2024-01-24 23:11:53,062 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:11:45 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:11:54,671 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:11:45
+2024-01-24 23:11:54,671 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:11:45
+2024-01-24 23:11:54,671 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:11:45
+2024-01-24 23:12:14,687 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:12:11
+2024-01-24 23:12:14,718 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:12:14.718284  BrokerTime : 2024-01-25 00:12:02  for the New Short Signal Modified by Sourav
+2024-01-24 23:12:14,780 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:12:02 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:12:16,452 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:12:02
+2024-01-24 23:12:16,452 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:12:02
+2024-01-24 23:12:16,452 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:12:02
+2024-01-24 23:12:36,468 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:12:30
+2024-01-24 23:12:36,483 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:12:36.483907  BrokerTime : 2024-01-25 00:12:33  for the New Short Signal Modified by Sourav
+2024-01-24 23:12:36,499 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:12:33 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:12:38,202 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:12:37
+2024-01-24 23:12:38,202 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:12:37
+2024-01-24 23:12:38,202 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:12:37
+2024-01-24 23:12:58,218 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:12:42
+2024-01-24 23:12:58,233 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:12:58.233910  BrokerTime : 2024-01-25 00:12:51  for the New Short Signal Modified by Sourav
+2024-01-24 23:12:58,265 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:12:51 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:13:00,187 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:12:51
+2024-01-24 23:13:00,187 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:12:51
+2024-01-24 23:13:00,187 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:12:51
+2024-01-24 23:13:20,218 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:13:09
+2024-01-24 23:13:20,218 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:13:20.218282  BrokerTime : 2024-01-25 00:13:07  for the New Short Signal Modified by Sourav
+2024-01-24 23:13:20,233 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:13:07 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:13:22,062 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:13:07
+2024-01-24 23:13:22,062 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:13:07
+2024-01-24 23:13:22,062 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:13:07
+2024-01-24 23:13:42,077 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:13:26
+2024-01-24 23:13:42,108 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:13:42.108908  BrokerTime : 2024-01-25 00:13:36  for the New Short Signal Modified by Sourav
+2024-01-24 23:13:42,108 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:13:36 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:13:44,046 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:13:42
+2024-01-24 23:13:44,046 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:13:42
+2024-01-24 23:13:44,046 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:13:42
+2024-01-24 23:14:04,062 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:13:26
+2024-01-24 23:14:04,077 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:14:04.077661  BrokerTime : 2024-01-25 00:14:03  for the New Short Signal Modified by Sourav
+2024-01-24 23:14:04,093 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:14:03 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:14:05,952 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:14:03
+2024-01-24 23:14:05,952 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:14:03
+2024-01-24 23:14:05,952 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:14:03
+2024-01-24 23:14:25,968 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:14:04
+2024-01-24 23:14:25,999 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:14:25.999536  BrokerTime : 2024-01-25 00:14:03  for the New Short Signal Modified by Sourav
+2024-01-24 23:14:26,015 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:14:03 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:14:27,718 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:14:03
+2024-01-24 23:14:27,718 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:14:03
+2024-01-24 23:14:27,718 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:14:03
+2024-01-24 23:14:47,733 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:14:46
+2024-01-24 23:14:47,749 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:14:47.749534  BrokerTime : 2024-01-25 00:14:42  for the New Short Signal Modified by Sourav
+2024-01-24 23:14:47,765 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:14:42 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:14:49,655 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:14:48
+2024-01-24 23:14:49,655 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:14:48
+2024-01-24 23:14:49,655 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:14:48
+2024-01-24 23:15:09,687 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:15:04
+2024-01-24 23:15:09,702 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:15:09.702662  BrokerTime : 2024-01-25 00:15:07  for the New Short Signal Modified by Sourav
+2024-01-24 23:15:09,718 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:15:07 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:15:11,530 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:15:10
+2024-01-24 23:15:11,530 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:15:10
+2024-01-24 23:15:11,530 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:15:10
+2024-01-24 23:15:31,546 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:15:04
+2024-01-24 23:15:31,577 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:15:31.577659  BrokerTime : 2024-01-25 00:15:29  for the New Short Signal Modified by Sourav
+2024-01-24 23:15:31,577 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:15:29 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:15:33,452 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:15:29
+2024-01-24 23:15:33,452 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:15:29
+2024-01-24 23:15:33,468 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:15:29
+2024-01-24 23:15:53,499 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:15:50
+2024-01-24 23:15:53,718 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:15:53.718288  BrokerTime : 2024-01-25 00:15:44  for the New Short Signal Modified by Sourav
+2024-01-24 23:15:53,796 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:15:44 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:15:55,265 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:15:54
+2024-01-24 23:15:55,265 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:15:54
+2024-01-24 23:15:55,265 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:15:54
+2024-01-24 23:16:15,280 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:16:08
+2024-01-24 23:16:15,499 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:16:15.499541  BrokerTime : 2024-01-25 00:16:04  for the New Short Signal Modified by Sourav
+2024-01-24 23:16:15,577 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:16:04 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:16:17,187 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:16:04
+2024-01-24 23:16:17,187 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:16:04
+2024-01-24 23:16:17,187 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:16:04
+2024-01-24 23:16:37,202 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:16:32
+2024-01-24 23:16:37,218 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:16:37.218283  BrokerTime : 2024-01-25 00:16:30  for the New Short Signal Modified by Sourav
+2024-01-24 23:16:37,233 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:16:30 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:16:39,093 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:16:30
+2024-01-24 23:16:39,093 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:16:30
+2024-01-24 23:16:39,093 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:16:30
+2024-01-24 23:16:59,108 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:16:58
+2024-01-24 23:16:59,124 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:16:59.124538  BrokerTime : 2024-01-25 00:16:30  for the New Short Signal Modified by Sourav
+2024-01-24 23:16:59,140 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:16:30 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:17:01,062 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:16:30
+2024-01-24 23:17:01,062 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:16:30
+2024-01-24 23:17:01,062 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:16:30
+2024-01-24 23:17:21,077 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:17:15
+2024-01-24 23:17:21,093 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:17:21.093292  BrokerTime : 2024-01-25 00:17:11  for the New Short Signal Modified by Sourav
+2024-01-24 23:17:21,108 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:17:11 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:17:23,046 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:17:11
+2024-01-24 23:17:23,046 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:17:11
+2024-01-24 23:17:23,046 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:17:11
+2024-01-24 23:17:43,062 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:17:40
+2024-01-24 23:17:43,093 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:17:43.077660  BrokerTime : 2024-01-25 00:17:36  for the New Short Signal Modified by Sourav
+2024-01-24 23:17:43,093 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:17:36 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:17:45,077 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:17:43
+2024-01-24 23:17:45,077 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:17:43
+2024-01-24 23:17:45,077 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:17:43
+2024-01-24 23:18:05,093 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:17:56
+2024-01-24 23:18:05,312 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:18:05.312035  BrokerTime : 2024-01-25 00:18:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:18:05,421 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:18:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:18:06,905 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:18:00
+2024-01-24 23:18:06,905 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:18:00
+2024-01-24 23:18:06,905 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:18:00
+2024-01-24 23:18:26,921 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:18:21
+2024-01-24 23:18:26,937 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:18:26.937034  BrokerTime : 2024-01-25 00:18:00  for the New Short Signal Modified by Sourav
+2024-01-24 23:18:26,952 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:18:00 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:18:28,780 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:18:00
+2024-01-24 23:18:28,780 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:18:00
+2024-01-24 23:18:28,796 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:18:00
+2024-01-24 23:18:48,827 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:18:30
+2024-01-24 23:18:48,827 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:18:48.827657  BrokerTime : 2024-01-25 00:18:32  for the New Short Signal Modified by Sourav
+2024-01-24 23:18:48,843 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:18:32 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:18:50,796 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:18:32
+2024-01-24 23:18:50,796 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:18:32
+2024-01-24 23:18:50,796 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:18:32
+2024-01-24 23:19:10,812 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:19:07
+2024-01-24 23:19:10,827 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:19:10.827658  BrokerTime : 2024-01-25 00:19:10  for the New Short Signal Modified by Sourav
+2024-01-24 23:19:10,843 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:19:10 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:19:12,640 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:19:10
+2024-01-24 23:19:12,640 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:19:10
+2024-01-24 23:19:12,640 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:19:10
+2024-01-24 23:19:32,655 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:19:07
+2024-01-24 23:19:32,671 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:19:32.671411  BrokerTime : 2024-01-25 00:19:10  for the New Short Signal Modified by Sourav
+2024-01-24 23:19:32,687 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:19:10 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:19:34,671 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:19:10
+2024-01-24 23:19:34,671 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:19:10
+2024-01-24 23:19:34,671 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:19:10
+2024-01-24 23:19:54,702 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 00:19:07
+2024-01-24 23:19:54,718 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-24 23:19:54.718286  BrokerTime : 2024-01-25 00:19:34  for the New Short Signal Modified by Sourav
+2024-01-24 23:19:54,733 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 00:19:34 H4DfLastIndex : 2024-01-25 00:00:00
+2024-01-24 23:19:56,405 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:19:34
+2024-01-24 23:19:56,405 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27243 at BrokerTime : 2024-01-25 00:19:34
+2024-01-24 23:19:56,405 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 00:19:34
+2024-01-25 03:00:00,532 - DEBUG - AT the next Hour InTime -- SymbolName : GBPUSD BrokerTime : 2024-01-25 04:00:00
+2024-01-25 03:00:00,595 - DEBUG - Running Event Loop of Instrument:GBPUSD at ServerTime : 2024-01-25 03:00:00.595439  BrokerTime : 2024-01-25 04:00:00  for the New Short Signal Modified by Sourav
+2024-01-25 03:00:00,640 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : GBPUSD BrokerTime: 2024-01-25 04:00:00 H4DfLastIndex : 2024-01-25 04:00:00
+2024-01-25 03:00:03,702 - DEBUG - No entry for signal1 of Instrument : GBPUSD  close : 1.27119 at BrokerTime : 2024-01-25 04:00:03
+2024-01-25 03:00:03,718 - DEBUG - No entry for signal2 of Instrument : GBPUSD  close : 1.27119 at BrokerTime : 2024-01-25 04:00:03
+2024-01-25 03:00:03,718 - DEBUG - Function Out of GBPUSD NextSignalCheckTime 2024-01-25 04:00:03

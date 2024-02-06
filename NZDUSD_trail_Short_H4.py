@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
 
 import numpy as np
 import pandas as pd
@@ -189,7 +185,7 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
 
         except AttributeError:
             if mt5.initialize():
-                logger.success(f'MT5 Connect Reestablished at BrokerTime : {datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)}')
+                logger.info(f'MT5 Connect Reestablished at BrokerTime : {datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)}')
             else:
                 logger.error(f'MT5 Connection Not able to connect at BrokerTime : {datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3)}  Again Trying......')
                 login = 25071028
@@ -246,16 +242,16 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                     SL_dis = 50
                     LotSize = round((PerCentageRisk * mt5.account_info().equity)/(pipval*50),2)
                     
-                    order= market_order(symbol , LotSize,'sell',signal,1000+i )
+                    order= market_order(symbol , LotSize,'sell','EURUSD_HyperParameter_Short',1000+i )
                     tick = mt5.symbol_info_tick(symbol)
-                    Price = tick.ask
+                    Price = tick.bid
                     
                     ATR = df.iloc[index]['ATR']
                     StopLoss = Price + SL_dis * SL_TpRatio
                     TP_val = Price - 30 * SL_TpRatio
                     order_id = order.order
                     order_price = order.price
-                    logger.success(f'Entry at {time1} for {symbol}  , SL : {StopLoss} , TP : {TP_val} ,Lotsize : {LotSize} , OrderPrice : {Price}, comment : {order.comment}  {flag}')
+                    logger.info(f'Entry at {time1} for {symbol}  , SL : {StopLoss} , TP : {TP_val} ,Lotsize : {LotSize} , OrderPrice : {Price}, comment : {order.comment}  {flag}')
                     df_entry.loc[len(df_entry)] = [i,order_id,order.volume,Price,TP_val,StopLoss,0,flag]
                 
                 
@@ -290,16 +286,16 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                         SL_dis = 50
                         LotSize = round((PerCentageRisk * mt5.account_info().equity)/(pipval*50),2)
                         
-                        order= market_order(symbol , LotSize,'sell',signal,1000+i )
+                        order= market_order(symbol , LotSize,'sell','EURUSD_HyperParameter_Short',1000+i )
                         tick = mt5.symbol_info_tick(symbol)
-                        Price = tick.ask
+                        Price = tick.bid
                         
                         ATR = df.iloc[index]['ATR']
                         StopLoss = Price + SL_dis * SL_TpRatio
                         TP_val = Price - 30 * SL_TpRatio
                         order_id = order.order
                         order_price = order.price
-                        logger.success(f'Entry at {time1} for {symbol}  , SL : {StopLoss} , TP : {TP_val} ,Lotsize : {LotSize} , OrderPrice : {Price}, comment : {order.comment}  {flag}')
+                        logger.info(f'Entry at {time1} for {symbol}  , SL : {StopLoss} , TP : {TP_val} ,Lotsize : {LotSize} , OrderPrice : {Price}, comment : {order.comment}  {flag}')
                         df_entry.loc[len(df_entry)] = [i,order_id,order.volume,Price,TP_val,StopLoss,0,flag]
             
                 else:
@@ -343,7 +339,7 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                         
                         # SL , TP check
                         
-                    Price = mt5.symbol_info_tick(symbol).bid
+                    Price = mt5.symbol_info_tick(symbol).ask
                     Price1 = mt5.symbol_info_tick(symbol).ask
                             # SL Hit
                     for index, row in df_entry.iterrows():  
@@ -354,7 +350,7 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
                                             time_s = (datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))
                                             print(f'SL Hit at{time_s} ')
                                             close = close_order(row['orderid'])
-                                            logger.success(f"SL hit Short BrokerTime : {time_s} SL : {row['SL']} TP : {row['TP']} ,{row['signals']},{close.comment}  ")
+                                            logger.info(f"SL hit Short BrokerTime : {time_s} SL : {row['SL']} TP : {row['TP']} ,{row['signals']},{close.comment}  ")
                                             if close.comment == 'Request executed':
 
                                                 rows_to_delete.append(index)
@@ -386,7 +382,7 @@ def Execution(script_name,symbol , PerCentageRisk , SL_TpRatio ,TP,SL,pipval,log
     else:
         df_entry.to_csv(f'{script_name}_entry_signals.csv',index = False)
         logger.debug(f'Function Out of {symbol} NextSignalCheckTime {(datetime.fromtimestamp(mt5.symbol_info_tick(symbol).time) - timedelta(hours=3))}') 
-        time.sleep(20)
+        time.sleep(1300)
         return
                 
                                 

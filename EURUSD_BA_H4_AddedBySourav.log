@@ -1,0 +1,275 @@
+2024-01-23 10:59:59,489 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-23 12:00:00
+2024-01-23 10:59:59,647 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 10:59:59.647609  BrokerTime : 2024-01-23 12:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 10:59:59,705 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-23 12:00:00 H4DfLastIndex : 2024-01-23 12:00:00
+2024-01-23 11:00:02,597 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08875 at BrokerTime : 2024-01-23 12:00:02
+2024-01-23 11:00:02,597 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-23 12:00:02
+2024-01-23 14:59:59,670 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-23 16:00:00
+2024-01-23 14:59:59,717 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 14:59:59.717400  BrokerTime : 2024-01-23 16:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 14:59:59,936 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-23 16:00:00 H4DfLastIndex : 2024-01-23 16:00:00
+2024-01-23 15:00:01,951 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08741 at BrokerTime : 2024-01-23 16:00:02
+2024-01-23 15:00:02,061 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-23 16:00:02
+2024-01-23 18:59:59,719 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-23 20:00:00
+2024-01-23 19:00:00,106 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 19:00:00.106173  BrokerTime : 2024-01-23 20:00:00  for the New Short Signal Modified by Sourav
+2024-01-23 19:00:00,309 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-23 20:00:00 H4DfLastIndex : 2024-01-23 20:00:00
+2024-01-23 19:00:01,731 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08315 at BrokerTime : 2024-01-23 20:00:00
+2024-01-23 19:00:01,762 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-23 20:00:00
+2024-01-23 23:01:59,871 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:01:59,903 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:01:59.903065  BrokerTime : 2024-01-23 23:58:59  for the New Short Signal Modified by Sourav
+2024-01-23 23:01:59,972 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-23 23:58:59 H4DfLastIndex : 2024-01-23 20:00:00
+2024-01-23 23:01:59,996 - DEBUG - Retrying getting Latest candle for H4data of Instrument : EURUSD FalseBrokerTime: 2024-01-23 23:58:59 H4DfLastIndex : 2024-01-24 00:00:00 NowBrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:00,985 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:01,014 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:02:22,028 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:22,059 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:02:22.059344  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:02:22,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:23,121 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:23,121 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:02:44,028 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:44,043 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:02:44.043673  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:02:44,043 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:02:45,012 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:02:45,012 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:03:05,871 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:03:05,871 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:03:05.871799  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:05,887 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:07,574 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:03:07,574 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:03:27,762 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:27,778 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:03:27.778046  BrokerTime : 2024-01-24 00:02:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:27,778 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:02:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:28,684 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:02:00
+2024-01-23 23:03:28,699 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:02:00
+2024-01-23 23:03:49,590 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:03:22
+2024-01-23 23:03:49,606 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:03:49.606173  BrokerTime : 2024-01-24 00:03:30  for the New Short Signal Modified by Sourav
+2024-01-23 23:03:49,621 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:03:30 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:03:51,121 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:03:30
+2024-01-23 23:03:51,121 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:03:30
+2024-01-23 23:04:11,293 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:11,293 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:04:11.293673  BrokerTime : 2024-01-24 00:04:10  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:11,309 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:04:10 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:12,309 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:04:10
+2024-01-23 23:04:12,403 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:04:10
+2024-01-23 23:04:33,061 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:33,074 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:04:33.074925  BrokerTime : 2024-01-24 00:04:10  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:33,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:04:10 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:34,746 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:04:34
+2024-01-23 23:04:34,762 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:04:34
+2024-01-23 23:04:55,074 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:04:01
+2024-01-23 23:04:55,090 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:04:55.090548  BrokerTime : 2024-01-24 00:04:34  for the New Short Signal Modified by Sourav
+2024-01-23 23:04:55,090 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:04:34 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:04:56,637 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:04:34
+2024-01-23 23:04:56,637 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:04:34
+2024-01-23 23:05:16,856 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:05:10
+2024-01-23 23:05:16,856 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:05:16.856176  BrokerTime : 2024-01-24 00:05:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:05:16,871 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:05:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:05:18,090 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:05:15
+2024-01-23 23:05:18,090 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:05:15
+2024-01-23 23:05:39,122 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:05:39
+2024-01-23 23:05:39,122 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:05:39.122084  BrokerTime : 2024-01-24 00:05:34  for the New Short Signal Modified by Sourav
+2024-01-23 23:05:39,137 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:05:34 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:05:40,356 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:05:34
+2024-01-23 23:05:40,449 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:05:34
+2024-01-23 23:06:01,168 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:06:00
+2024-01-23 23:06:01,184 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:06:01.184353  BrokerTime : 2024-01-24 00:05:57  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:01,199 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:05:57 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:02,793 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:05:57
+2024-01-23 23:06:02,793 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:05:57
+2024-01-23 23:06:22,965 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:06:19
+2024-01-23 23:06:22,965 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:06:22.965547  BrokerTime : 2024-01-24 00:06:16  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:22,981 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:06:16 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:24,574 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:06:16
+2024-01-23 23:06:24,590 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:06:16
+2024-01-23 23:06:44,746 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:06:24
+2024-01-23 23:06:44,762 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:06:44.746799  BrokerTime : 2024-01-24 00:06:35  for the New Short Signal Modified by Sourav
+2024-01-23 23:06:44,762 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:06:35 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:06:46,137 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:06:35
+2024-01-23 23:06:46,215 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:06:35
+2024-01-23 23:07:06,418 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:07:00
+2024-01-23 23:07:06,434 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:07:06.434297  BrokerTime : 2024-01-24 00:06:56  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:06,434 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:06:56 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:07,246 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:06:56
+2024-01-23 23:07:07,246 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:06:56
+2024-01-23 23:07:28,106 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:07:19
+2024-01-23 23:07:28,121 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:07:28.121795  BrokerTime : 2024-01-24 00:06:56  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:28,121 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:06:56 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:29,074 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:06:56
+2024-01-23 23:07:29,074 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:06:56
+2024-01-23 23:07:49,918 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:07:49,918 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:07:49.918671  BrokerTime : 2024-01-24 00:07:43  for the New Short Signal Modified by Sourav
+2024-01-23 23:07:49,918 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:07:43 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:07:50,778 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:07:43
+2024-01-23 23:07:50,778 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:07:43
+2024-01-23 23:08:11,731 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:07:30
+2024-01-23 23:08:11,746 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:08:11.746799  BrokerTime : 2024-01-24 00:07:43  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:11,762 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:07:43 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:12,778 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:07:43
+2024-01-23 23:08:12,778 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:07:43
+2024-01-23 23:08:33,715 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:08:15
+2024-01-23 23:08:33,731 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:08:33.731170  BrokerTime : 2024-01-24 00:07:43  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:33,746 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:07:43 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:34,574 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:07:43
+2024-01-23 23:08:34,574 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:07:43
+2024-01-23 23:08:55,543 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:08:34
+2024-01-23 23:08:55,559 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:08:55.543741  BrokerTime : 2024-01-24 00:07:43  for the New Short Signal Modified by Sourav
+2024-01-23 23:08:55,559 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:07:43 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:08:56,496 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:08:56
+2024-01-23 23:08:56,496 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:08:56
+2024-01-23 23:09:17,371 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:09:13
+2024-01-23 23:09:17,371 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:09:17.371797  BrokerTime : 2024-01-24 00:09:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:09:17,387 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:09:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:09:18,324 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:09:15
+2024-01-23 23:09:18,324 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:09:15
+2024-01-23 23:09:39,246 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:09:30
+2024-01-23 23:09:39,262 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:09:39.262422  BrokerTime : 2024-01-24 00:09:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:09:39,278 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:09:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:09:40,949 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:09:40
+2024-01-23 23:09:40,965 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:09:40
+2024-01-23 23:10:01,199 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:01,199 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:10:01.199920  BrokerTime : 2024-01-24 00:10:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:01,215 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:10:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:02,481 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:10:01
+2024-01-23 23:10:02,528 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:10:01
+2024-01-23 23:10:22,934 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:10:00
+2024-01-23 23:10:22,949 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:10:22.949922  BrokerTime : 2024-01-24 00:10:19  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:22,965 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:10:19 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:24,717 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:10:24
+2024-01-23 23:10:24,731 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:10:24
+2024-01-23 23:10:44,918 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:10:43
+2024-01-23 23:10:44,934 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:10:44.934299  BrokerTime : 2024-01-24 00:10:29  for the New Short Signal Modified by Sourav
+2024-01-23 23:10:44,934 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:10:29 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:10:46,496 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:10:29
+2024-01-23 23:10:46,496 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:10:29
+2024-01-23 23:11:06,668 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:10:57
+2024-01-23 23:11:06,684 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:11:06.684297  BrokerTime : 2024-01-24 00:11:01  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:06,699 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:11:01 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:07,606 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:11:01
+2024-01-23 23:11:07,606 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:11:01
+2024-01-23 23:11:28,528 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:11:25
+2024-01-23 23:11:28,544 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:11:28.544305  BrokerTime : 2024-01-24 00:11:28  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:28,559 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:11:28 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:30,137 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:11:28
+2024-01-23 23:11:30,153 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:11:28
+2024-01-23 23:11:50,356 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:11:50
+2024-01-23 23:11:50,356 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:11:50.356175  BrokerTime : 2024-01-24 00:11:49  for the New Short Signal Modified by Sourav
+2024-01-23 23:11:50,371 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:11:49 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:11:51,528 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:11:49
+2024-01-23 23:11:51,559 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:11:49
+2024-01-23 23:12:12,371 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:12:07
+2024-01-23 23:12:12,371 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:12:12.371797  BrokerTime : 2024-01-24 00:12:12  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:12,387 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:12:12 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:13,169 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:12:12
+2024-01-23 23:12:13,169 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:12:12
+2024-01-23 23:12:34,059 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:12:29
+2024-01-23 23:12:34,059 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:12:34.059300  BrokerTime : 2024-01-24 00:12:18  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:34,074 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:12:18 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:35,637 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:12:18
+2024-01-23 23:12:35,653 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:12:18
+2024-01-23 23:12:55,824 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:12:53
+2024-01-23 23:12:55,840 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:12:55.840548  BrokerTime : 2024-01-24 00:12:18  for the New Short Signal Modified by Sourav
+2024-01-23 23:12:55,856 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:12:18 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:12:57,340 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:12:18
+2024-01-23 23:12:57,356 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:12:18
+2024-01-23 23:13:17,528 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:17,543 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:13:17.543670  BrokerTime : 2024-01-24 00:13:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:13:17,543 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:13:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:13:19,106 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:13:15
+2024-01-23 23:13:19,121 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:13:15
+2024-01-23 23:13:39,309 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:13:08
+2024-01-23 23:13:39,324 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:13:39.324923  BrokerTime : 2024-01-24 00:13:25  for the New Short Signal Modified by Sourav
+2024-01-23 23:13:39,340 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:13:25 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:13:40,262 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:13:25
+2024-01-23 23:13:40,262 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:13:25
+2024-01-23 23:14:01,231 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:13:58
+2024-01-23 23:14:01,246 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:14:01.246797  BrokerTime : 2024-01-24 00:13:25  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:01,246 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:13:25 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:02,543 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:13:25
+2024-01-23 23:14:02,590 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:13:25
+2024-01-23 23:14:22,996 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:22,996 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:14:22.996796  BrokerTime : 2024-01-24 00:14:13  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:23,012 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:14:13 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:23,903 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:14:13
+2024-01-23 23:14:23,918 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:14:13
+2024-01-23 23:14:44,762 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:14:03
+2024-01-23 23:14:44,762 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:14:44.762426  BrokerTime : 2024-01-24 00:14:13  for the New Short Signal Modified by Sourav
+2024-01-23 23:14:44,778 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:14:13 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:14:45,590 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:14:13
+2024-01-23 23:14:45,607 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:14:13
+2024-01-23 23:15:06,528 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:15:05
+2024-01-23 23:15:06,543 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:15:06.543855  BrokerTime : 2024-01-24 00:15:03  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:06,559 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:15:03 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:08,278 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:15:08
+2024-01-23 23:15:08,278 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:15:08
+2024-01-23 23:15:28,496 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:15:15
+2024-01-23 23:15:28,496 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:15:28.496798  BrokerTime : 2024-01-24 00:15:08  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:28,512 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:15:08 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:30,012 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:15:08
+2024-01-23 23:15:30,012 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:15:08
+2024-01-23 23:15:50,199 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:15:44
+2024-01-23 23:15:50,199 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:15:50.199919  BrokerTime : 2024-01-24 00:15:40  for the New Short Signal Modified by Sourav
+2024-01-23 23:15:50,215 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:15:40 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:15:51,840 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:15:40
+2024-01-23 23:15:51,840 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:15:40
+2024-01-23 23:16:12,012 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:16:09
+2024-01-23 23:16:12,012 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:16:12.012420  BrokerTime : 2024-01-24 00:16:06  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:12,028 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:16:06 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:13,543 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:16:06
+2024-01-23 23:16:13,543 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:16:06
+2024-01-23 23:16:33,715 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:33,731 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:16:33.731173  BrokerTime : 2024-01-24 00:16:25  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:33,746 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:16:25 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:35,356 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:16:35
+2024-01-23 23:16:35,356 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:16:35
+2024-01-23 23:16:55,543 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:16:19
+2024-01-23 23:16:55,543 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:16:55.543671  BrokerTime : 2024-01-24 00:16:54  for the New Short Signal Modified by Sourav
+2024-01-23 23:16:55,559 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:16:54 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:16:56,793 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:16:54
+2024-01-23 23:16:56,856 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:16:54
+2024-01-23 23:17:17,153 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:17:01
+2024-01-23 23:17:17,168 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:17:17.168669  BrokerTime : 2024-01-24 00:17:14  for the New Short Signal Modified by Sourav
+2024-01-23 23:17:17,168 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:17:14 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:17:18,512 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:17:14
+2024-01-23 23:17:18,543 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:17:14
+2024-01-23 23:17:39,028 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:17:34
+2024-01-23 23:17:39,043 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:17:39.043671  BrokerTime : 2024-01-24 00:17:14  for the New Short Signal Modified by Sourav
+2024-01-23 23:17:39,059 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:17:14 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:17:40,746 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:17:14
+2024-01-23 23:17:40,746 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:17:14
+2024-01-23 23:18:00,918 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:17:55
+2024-01-23 23:18:00,934 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:18:00.934298  BrokerTime : 2024-01-24 00:18:00  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:00,934 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:18:00 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:01,840 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:18:00
+2024-01-23 23:18:01,856 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:18:00
+2024-01-23 23:18:22,871 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:18:06
+2024-01-23 23:18:22,887 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:18:22.887424  BrokerTime : 2024-01-24 00:18:15  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:22,903 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:18:15 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:24,403 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:18:15
+2024-01-23 23:18:24,403 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:18:15
+2024-01-23 23:18:44,574 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:18:35
+2024-01-23 23:18:44,590 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:18:44.590551  BrokerTime : 2024-01-24 00:18:25  for the New Short Signal Modified by Sourav
+2024-01-23 23:18:44,606 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:18:25 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:18:45,528 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:18:25
+2024-01-23 23:18:45,543 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:18:25
+2024-01-23 23:19:06,512 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:06,512 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:19:06.512422  BrokerTime : 2024-01-24 00:19:06  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:06,528 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:19:06 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:07,356 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:19:06
+2024-01-23 23:19:07,356 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:19:06
+2024-01-23 23:19:28,293 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:19:01
+2024-01-23 23:19:28,293 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:19:28.293671  BrokerTime : 2024-01-24 00:19:21  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:28,309 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:19:21 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:29,871 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:19:21
+2024-01-23 23:19:29,871 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:19:21
+2024-01-23 23:19:50,012 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 00:19:40
+2024-01-23 23:19:50,028 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-23 23:19:50.028047  BrokerTime : 2024-01-24 00:19:46  for the New Short Signal Modified by Sourav
+2024-01-23 23:19:50,028 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 00:19:46 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-23 23:19:51,246 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.08534 at BrokerTime : 2024-01-24 00:19:46
+2024-01-23 23:19:51,340 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 00:19:46
+2024-01-24 02:59:59,955 - DEBUG - AT the next Hour InTime -- SymbolName : EURUSD BrokerTime : 2024-01-24 04:00:00
+2024-01-24 03:00:00,002 - DEBUG - Running Event Loop of Instrument:EURUSD at ServerTime : 2024-01-24 03:00:00.002109  BrokerTime : 2024-01-24 03:59:51  for the New Short Signal Modified by Sourav
+2024-01-24 03:00:00,095 - DEBUG - Checking DataFrameLastIndex and BrokerTime of Instrument : EURUSD BrokerTime: 2024-01-24 03:59:51 H4DfLastIndex : 2024-01-24 00:00:00
+2024-01-24 03:00:00,111 - DEBUG - Retrying getting Latest candle for H4data of Instrument : EURUSD FalseBrokerTime: 2024-01-24 03:59:51 H4DfLastIndex : 2024-01-24 00:00:00 NowBrokerTime : 2024-01-24 03:59:51
+2024-01-24 03:00:00,159 - DEBUG - Retrying getting Latest candle for H4data of Instrument : EURUSD FalseBrokerTime: 2024-01-24 03:59:51 H4DfLastIndex : 2024-01-24 00:00:00 NowBrokerTime : 2024-01-24 03:59:51
+2024-01-24 03:00:00,173 - DEBUG - Retrying getting Latest candle for H4data of Instrument : EURUSD FalseBrokerTime: 2024-01-24 03:59:51 H4DfLastIndex : 2024-01-24 00:00:00 NowBrokerTime : 2024-01-24 04:00:00
+2024-01-24 03:00:00,173 - DEBUG - Retrying getting Latest candle for H4data of Instrument : EURUSD FalseBrokerTime: 2024-01-24 03:59:51 H4DfLastIndex : 2024-01-24 04:00:00 NowBrokerTime : 2024-01-24 04:00:00
+2024-01-24 03:00:02,158 - DEBUG - No entry for signal1 of Instrument : EURUSD  close : 1.0858 at BrokerTime : 2024-01-24 04:00:00
+2024-01-24 03:00:02,252 - DEBUG - Function Out of EURUSD NextSignalCheckTime 2024-01-24 04:00:00
